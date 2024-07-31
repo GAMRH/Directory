@@ -26,3 +26,5 @@ while True:
 print(f'O valor total a ser pago é: R$ {valor}')
 print(f'O total de ingressos é: {tot}')
 print(f'A média de idade dos ingressos comprados é {tot_idades / tot}')
+
+#Exercício feito na minha terceira aula prática de Lógica de Programação e Algoritmos, onde foi solicitado pra criar um programa para ler diferentes preços para idades diferentes e depois calcular o valor total a ser pago, a quantidade de ingressos comprados e a média de idade dos ingressos adquiridos!
